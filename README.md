@@ -5,3 +5,4 @@
 - clang-functions-cfg
 - PrintFunctionNames
 - clang-yaml
+- clang-astparser
